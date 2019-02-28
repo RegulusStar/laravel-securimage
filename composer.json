@@ -1,8 +1,8 @@
 {
-    "name": "yhbyun/laravel-securimage",
+    "name": "RegulusStar/laravel-securimage",
     "description": "Laravel 5 Securimage helper",
     "keywords": ["laravel", "captcha", "securimage"],
-    "homepage": "https://github.com/yhbyun/laravel-securimage",
+    "homepage": "https://github.com/RegulusStar/laravel-securimage",
     "license": "MIT",
     "authors": [
         {
